@@ -18,3 +18,6 @@ sed、awk等で書きたかったのですが、sed,awkは、基本的に、英�
 コンパイルの仕方:c++ extwords.cpp -o extwords
 
 使い方:extwords dicfile
+
+パッケージ extwordsには、extwordsの実行ファイルが、
+パッケージ ewordsには、抽出された単語ファイルが入ってます。
