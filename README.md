@@ -20,4 +20,5 @@ sed、awk等で書きたかったのですが、sed,awkは、基本的に、英�
 使い方:extwords dicfile
 
 パッケージ extwordsには、extwordsの実行ファイルが、
-パッケージ ewordsには、抽出された単語ファイルが入ってます。
+パッケージ ewordsには、ejdic-hand-utf8.txtから抽出された単語ファイルが入ってます。
+txtファイル ejdic-hand-utf8-words.txtが、ejdic-hand-utf8.txtから抽出した生データです。
